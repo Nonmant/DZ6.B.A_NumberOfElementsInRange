@@ -1,4 +1,4 @@
-//https://contest.yandex.ru/contest/29188/problems/
+//https://contest.yandex.ru/contest/29188/problems/A/
 
 #include "funcs.h"
 #include <vector>
